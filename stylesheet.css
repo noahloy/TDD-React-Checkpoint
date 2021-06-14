@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#loginButton {
+    text-align: right;
+    left: 750px;
+}
+
+#signUpButton {
+    text-align: right;
+    left: 800px;
+
+}
